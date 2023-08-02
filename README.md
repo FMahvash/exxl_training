@@ -1,5 +1,5 @@
 # exxl
-This is a dummy project.
+This is a dummy project
 
 
 
