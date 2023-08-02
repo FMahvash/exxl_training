@@ -1,6 +1,9 @@
 # exxl
-this i a dummy project
-it has foloowing features:
+This is a dummy project.
+
+
+
+It has the following features:
 feature 1
 feature 2
 feature 3
